@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13483db-46e7-4c4e-a884-0e8741ca9f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1_forTest/src/css/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_forTest/src/img/foto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_forTest/src/img/paper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_forTest/src/img/piza.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_forTest/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_forTest/src/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customs_helper/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/customs_helper/src/store/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +42,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578044598901" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dtd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -232,14 +227,9 @@
       <workItem from="1589195376499" duration="5913000" />
       <workItem from="1591355995926" duration="621000" />
       <workItem from="1591958643395" duration="12390000" />
-      <workItem from="1592577284068" duration="2045000" />
-    </task>
-    <task id="LOCAL-00059" summary="задача PhoneBookServer&#10;вариант с синхронным ajax">
-      <created>1577334114581</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1577334114581</updated>
+      <workItem from="1592577284068" duration="2174000" />
+      <workItem from="1592835463446" duration="18000" />
+      <workItem from="1596000234112" duration="304000" />
     </task>
     <task id="LOCAL-00060" summary="задача PhoneBookServer&#10;вариант фильтрацией контактов на стороне клиента">
       <created>1577372948138</created>
@@ -577,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587740942960</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Добавлена ставка 4.5% от 22 jun 2020&#10;И немного помог Олесе с ее страничкой для курсовой работы">
+      <created>1592579930676</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1592579930676</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="В папке vf-test сделан процентный калькулятор на vuetify" />
     <MESSAGE value="В папке customs-helper сделан скелет на шаблоне vuetify&#10;После изучения серверного веба пробовать собрать проект" />
     <MESSAGE value="Добавлены рассчеты процентов за отсрочку" />
     <MESSAGE value="Добавлены рассчеты процентов за отсрочку." />
@@ -639,6 +635,7 @@
     <MESSAGE value="Исправлена задача PhoneBookWebpack согласно замечаний 2" />
     <MESSAGE value="Добавлена ставка 6% от 10 фев 2020" />
     <MESSAGE value="Добавлена ставка 5.5% от 27 apr 2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена ставка 5.5% от 27 apr 2020" />
+    <MESSAGE value="Добавлена ставка 4.5% от 22 jun 2020&#10;И немного помог Олесе с ее страничкой для курсовой работы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена ставка 4.5% от 22 jun 2020&#10;И немного помог Олесе с ее страничкой для курсовой работы" />
   </component>
 </project>
