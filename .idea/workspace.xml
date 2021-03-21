@@ -42,7 +42,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578044598901" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dtd" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -229,14 +229,8 @@
       <workItem from="1591958643395" duration="12390000" />
       <workItem from="1592577284068" duration="2174000" />
       <workItem from="1592835463446" duration="18000" />
-      <workItem from="1596000234112" duration="304000" />
-    </task>
-    <task id="LOCAL-00060" summary="задача PhoneBookServer&#10;вариант фильтрацией контактов на стороне клиента">
-      <created>1577372948138</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1577372948138</updated>
+      <workItem from="1596000234112" duration="722000" />
+      <workItem from="1616307309247" duration="1693000" />
     </task>
     <task id="LOCAL-00061" summary="задача PhoneBookServer&#10;вариант фильтрацией контактов на сервере">
       <created>1577374402902</created>
@@ -574,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592579930676</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Добавлена ставка 4.25% от 27 jul 2020">
+      <created>1596000661936</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1596000661937</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="В папке customs-helper сделан скелет на шаблоне vuetify&#10;После изучения серверного веба пробовать собрать проект" />
     <MESSAGE value="Добавлены рассчеты процентов за отсрочку" />
     <MESSAGE value="Добавлены рассчеты процентов за отсрочку." />
     <MESSAGE value="Добавлено принятие чисел с точкой и с запятой.&#10;Добавить регулярное выражение принятие только цифр и арифметических знаков." />
@@ -636,6 +636,7 @@
     <MESSAGE value="Добавлена ставка 6% от 10 фев 2020" />
     <MESSAGE value="Добавлена ставка 5.5% от 27 apr 2020" />
     <MESSAGE value="Добавлена ставка 4.5% от 22 jun 2020&#10;И немного помог Олесе с ее страничкой для курсовой работы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена ставка 4.5% от 22 jun 2020&#10;И немного помог Олесе с ее страничкой для курсовой работы" />
+    <MESSAGE value="Добавлена ставка 4.25% от 27 jul 2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена ставка 4.25% от 27 jul 2020" />
   </component>
 </project>
